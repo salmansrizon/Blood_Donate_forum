@@ -1,9 +1,9 @@
 <?php
 function get_db_connection(){
-		$servername = "127.0.0.1:3306";
-		$username = "root";
+		$servername = "";
+		$username = "";
 		$password = "";
-		$dbname = "blooddonate";
+		$dbname = "";
 
 		// Create connection
 		$conn = mysqli_connect($servername, $username, $password, $dbname);
