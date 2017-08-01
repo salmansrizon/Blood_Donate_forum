@@ -8,9 +8,9 @@
      #log{
 		 width: 80%;
 		 box-shadow: 0px 0px 31px #888;
-        margin-top: 100px;
-		margin-bottom: 350px;
-		border-radius: 3px;
+                 margin-top: 100px;
+		 margin-bottom: 350px;
+		 border-radius: 3px;
 		
 	 }
 
@@ -20,7 +20,7 @@
   </head>
 <body>
 
-<!------------------------------header from header.php------------------------>
+<!--header from header.php-->
 <?php include("admin_login.php");?>
 
 
